@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/git_practice_Bec/static/css/main.519e4117.css",
+    "main.js": "/git_practice_Bec/static/js/main.2b04ff82.js",
+    "index.html": "/git_practice_Bec/index.html",
+    "main.519e4117.css.map": "/git_practice_Bec/static/css/main.519e4117.css.map",
+    "main.2b04ff82.js.map": "/git_practice_Bec/static/js/main.2b04ff82.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.519e4117.css",
+    "static/js/main.2b04ff82.js"
+  ]
+}
